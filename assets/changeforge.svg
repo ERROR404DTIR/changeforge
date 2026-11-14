@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="t d">
+<title id="t">ChangeForge</title><desc id="d">Animated commit stream and semantic version badge</desc>
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#89b4fa"/><stop offset="1" stop-color="#cba6f7"/></linearGradient></defs>
+<rect width="1200" height="220" rx="24" fill="#181825"/><path d="M0 174H1200" stroke="#313244"/>
+<g fill="none" stroke="url(#g)" stroke-width="4" stroke-linecap="round"><path d="M70 174V128H230V174H390V128H550V174H710V128H870V174H1030V128H1180"><animate attributeName="stroke-dasharray" values="0 2400;2400 0" dur="6s" repeatCount="indefinite"/></path></g>
+<g fill="#a6e3a1"><circle cx="230" cy="128" r="7"><animate attributeName="r" values="5;10;5" dur="2s" repeatCount="indefinite"/></circle><circle cx="550" cy="128" r="7"/><circle cx="870" cy="128" r="7"/></g>
+<text x="70" y="91" fill="#cdd6f4" font-family="monospace" font-size="56" font-weight="700">CHANGEFORGE</text>
+<text x="74" y="202" fill="#a6adc8" font-family="monospace" font-size="17">COMMITS → CHANGELOGS → SEMVER</text>
+<rect x="950" y="42" width="180" height="48" rx="12" fill="#313244"/><text x="1040" y="73" text-anchor="middle" fill="#a6e3a1" font-family="monospace" font-size="18">v1.0.0</text>
+</svg>
